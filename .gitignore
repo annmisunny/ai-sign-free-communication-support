@@ -179,3 +179,21 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+Generated gesture training data
+
+sign_free_project/data/
+
+Trained model files
+
+sign_free_project/model/.keras
+sign_free_project/model/.h5
+
+Python cache files
+
+pycache/
+*.pyc
+
+Jupyter checkpoints
+
+.ipynb_checkpoints/
